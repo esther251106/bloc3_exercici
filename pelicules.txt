@@ -1,3 +1,7 @@
 La vida de Brian
+<<<<<<< HEAD
 Dori
 interestelar
+=======
+cars
+>>>>>>> 0601832 (afegida peli cars)
