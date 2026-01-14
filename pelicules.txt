@@ -1,7 +1,9 @@
 La vida de Brian
-<<<<<<< HEAD
+HEAD
 Dori
 interestelar
-=======
 cars
->>>>>>> 0601832 (afegida peli cars)
+HEAD
+(afegida peli cars)
+El sentit de la vida
+
